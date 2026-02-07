@@ -1,0 +1,10 @@
+
+modLoader="javafml"
+loaderVersion="[48,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="pixelmonstonedrops"
+version="1.0"
+displayName="Pixelmon Stone Drops"
+description="Custom stone drops for Pixelmon"
